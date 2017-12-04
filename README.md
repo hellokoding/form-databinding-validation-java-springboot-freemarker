@@ -1,7 +1,7 @@
 # Handling Form Submission with Java, Spring Boot, FreeMarker
 
 ## Guide
-https://hellokoding.com/spring-boot-hello-world-example-with-freemarker/
+https://hellokoding.com/form-data-binding-and-validation-example-with-java-spring-boot-and-freemarker/
 
 ## What you'll need
 - JDK 1.7 or later
